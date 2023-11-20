@@ -1,4 +1,4 @@
-![Profile banner - 2](https://github.com/cvs-health-sandbox/annotations/assets/120667089/4aacdceb-81f9-46d2-9531-78594d8fabd1)
+![Collage of multi-colored annotation stamps](https://github.com/cvs-health/annotations/assets/82847291/1ef977fd-9c70-4462-aa12-485ee9a1280c)
 
 # Accessibility Annotations
 Accessibility annotations help capture design intent that cannot be conveyed through visual design alone. This can help prevent many accessibility issues earlier and create more usable digital experiences.
