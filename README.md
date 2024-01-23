@@ -13,12 +13,13 @@ This area will be expanded upon over time to provide more education on best prac
 ## Support
 As these are open source tools, we’re unable to provide direct support. You may submit any [issues](../../issues) to this repository. 
 
-We have a [roadmap](../../discussions/2) for future updates, and we welcome [discussions](../../discussions) and [feature requests](../../discussions/categories/ideas) as well. 
+We have a [roadmap](../../discussions/categories/announcements) for future updates, and we welcome [discussions](../../discussions) and [feature requests](../../discussions/categories/ideas) as well. 
 
 
 ## Download the kits
 Our open-source annotation kits are available on the Figma Community.
 - [Download the Web Accessibility Annotation Kit](https://www.figma.com/community/file/1311421011482282592/web-accessibility-annotation-kit)
+- [Download the Accessibility Annotation Kit for iOS](https://www.figma.com/community/file/1331647574396908226)
 
 
 ## Changelog
@@ -28,4 +29,5 @@ Our open-source annotation kits are available on the Figma Community.
 ## Resources
 - [Medium: Announcing a new Web Accessibility Annotation Kit](https://medium.com/cvs-health-tech-blog/announcing-a-new-web-accessibility-annotation-kit-from-inclusive-design-607bc23ba419?source=friends_link&sk=58ff2afc99074182f37e445d4b59cf6a)
 - [Medium: Behind the scenes of creating a new Web Accessibility Annotation Kit](https://medium.com/cvs-health-tech-blog/behind-the-scenes-of-creating-a-new-web-accessibility-annotation-kit-1834815544d3?source=friends_link&sk=18440291b6812c5516e54df8d4bd70fd)
+- [Medium: Introducing the Accessibility Annotations Kit for iOS](https://medium.com/cvs-health-tech-blog/introducing-the-accessibility-annotations-kit-for-ios-from-cvs-health-inclusive-design-19be1bf2fcc5)
 - [Follow CVS Health on the Figma community](https://www.figma.com/@cvshealth)
