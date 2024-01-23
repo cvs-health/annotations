@@ -24,6 +24,7 @@ Our open-source annotation kits are available on the Figma Community.
 
 ## Changelog
 - [Web Kit Release Notes](../../wiki/Changelog#web-kit-release-notes)
+- [iOS Kit release notes](../../wiki/Changelog#ios-kit-release-notes)
 
 
 ## Resources
